@@ -4,6 +4,39 @@
   
   
   <entry>
+    <title>Claude3真的超越GPT4了吗?</title>
+    <link href="/Claude3_VS_GPT4/"/>
+    <url>/Claude3_VS_GPT4/</url>
+    
+    <content type="html"><![CDATA[<h2 id="一文探究Claude3真实能力"><a href="#一文探究Claude3真实能力" class="headerlink" title="一文探究Claude3真实能力"></a>一文探究Claude3真实能力</h2><span id="more"></span><p><span style="color:rgb(0, 85, 46);">PS:开头先打个广告，想自己升级GPT4的可以看博主置顶文章，有购买普通账号或代充GPT4需求的可以加博主微信guanyx1009</span></p><img src="/Claude3_VS_GPT4/claude_page1.png" class=""><p>Claude3就在昨天悄无声息的上线了，OpenAI的好兄弟Anthropic公司仅仅在推特上发了一条消息来宣布这件事情。</p><img src="/Claude3_VS_GPT4/claudeX.png" class=""><p>Anthropic这次一下就发了三个模型：Opus、Sonnet、Haiku。说实话这名字感觉取得不咋地，主要是看不懂，要是不按顺序一起出现都不知道哪个是最牛逼的。</p><p>不过这些都不重要，直接上数据。</p><img src="/Claude3_VS_GPT4/claudevs.jpg" class=""><p>看看最强的Opus，仅从图上来看确实暴打GPT4。特别是有个指标很显眼，MGSM这个有关数学推理的数据集，0-shot的Claude3吊锤了8-shot的GPT4。</p><p>0-shot的意思是没给任何Prompt，直接上来就开始做题。而8-shot是先给了8个正确的示例再让你做题。由此引出我感觉Claude3第一项很强的点</p><h3 id="极强的推理能力"><a href="#极强的推理能力" class="headerlink" title="极强的推理能力"></a>极强的推理能力</h3><p>所谓推理能力，最直观解释就是数学题，也就是和逻辑强相关的一些任务。相对于其他一些语言知识类的数据集，这项任务其实最难提升，这也很好理解，因为我们日常学习中数学逻辑相关的确实是最难学的。</p><p>直接上物理题!</p><img src="/Claude3_VS_GPT4/wuli.png" class=""><p>只能说，完全正确…</p><h3 id="补齐多模态"><a href="#补齐多模态" class="headerlink" title="补齐多模态"></a>补齐多模态</h3><p>Claude3这次发布还有一项重要能力，就是补齐了之前没有的多模态能力。我们在日常用GPT4的时候经常需要用到上传图片进行一些任务处理，这次Claude3也终于加上了。</p><p>不过，效果好像..不太惊艳</p><img src="/Claude3_VS_GPT4/vision.png" class=""><p>这个图GPT4的回答有点长就不贴图了，GPT4给出了一个基本可用的代码，而Claude3直接摆烂了。</p><p>不过根据网上其他人的一些测试基本还是可用的，那总结下来多模态这一部分只能说确实还没有超越GPT4.</p><h3 id="长文本处理"><a href="#长文本处理" class="headerlink" title="长文本处理"></a>长文本处理</h3><p>最后Claude3还有一个亮眼的点是新增了长文本的处理，也就是说哪怕你扔一本书进去，他也能够较好的概括总结和你对话</p><img src="/Claude3_VS_GPT4/txtk.png" class=""><p>就是这响应时间实在太长了，等得花儿都谢了…</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>总的来说，这次Claude3确实展示了他的实力，不过要知道GPT4已经是一年前发布的了，谁知道OpenAI还有多少神奇魔法呢，拭目以待吧。</p><p>PS: 欢迎关注我的<a href="https://unxiao.com/">个人网站</a> 阅读体验更佳，记录图形学研究生从零开始学AI的历程。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>ChatGPT</category>
+      
+      <category>GPT4</category>
+      
+      <category>Claude3</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>ChatGPT</tag>
+      
+      <tag>GPT4</tag>
+      
+      <tag>Claude3</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>如何升级GPT4？信用卡付款失败怎么办？使用虚拟信用卡升级ChatGPT Plus</title>
     <link href="/upgrade-chatgpt4/"/>
     <url>/upgrade-chatgpt4/</url>
